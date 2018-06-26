@@ -4,12 +4,13 @@
 
 ## Function
 
-* FindYOURGiphy is a JQuery based app calling various API's allowing users to search for ANY topic and display ten static images.
-* Clicking on the images diplays the animated version and vice versa.
-* Also search for any movie for information and the cover poste. 
+* FindYOURGiphy is an app which calls various APIs allowing users to search for ANY topic and display ten static images.
+* Clicking on images displays the animated version and vice versa.
+* Also search for any movie for information and the cover poster. 
 
 ## Technical Details 
 
 *  Object Oriented JQuery based calling various APIs.
+
 
 
